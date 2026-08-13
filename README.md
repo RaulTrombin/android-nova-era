@@ -38,6 +38,13 @@ Aplicativo para calcular o valor de rendimentos em um investimento dado percentu
 
 <img src="docs/images/easyinvest.png" width="280" alt="Tela inicial do EasyInvest">
 
+### Churrascometro
+
+Aplicativo para calcular quantidade de carne, cerveja e refrigerante.
+
+<img src="docs/images/churrascometro.png" width="280" alt="Tela inicial do Churrascometro">
+
+
 ## Desafio 20D
 
 Trilha intermediária. Os exemplos entram aqui quando o desafio começar.
