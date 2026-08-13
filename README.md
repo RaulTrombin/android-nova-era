@@ -16,7 +16,6 @@ Cada desafio reúne exemplos práticos — da tela inicial ao cálculo final —
 
 Apps curtos, com fluxo em etapas e resultado na última tela.
 
-
 ### FuelCalculator
 
 Calcula o custo de combustível de uma viagem a partir do preço do litro, do consumo do veículo e da distância.
@@ -32,6 +31,12 @@ Calcula o custo de combustível de uma viagem a partir do preço do litro, do co
 | Stack | Kotlin, XML Views, Material 3, Activities + Intent extras |
 
 O usuário informa o preço do litro, o consumo (km/L) e a distância. O app estima os litros necessários e o valor total da viagem.
+
+### EasyInvest
+
+Aplicativo para calcular o valor de rendimentos em um investimento dado percentual de juros mensal.
+
+<img src="docs/images/easyinvest.png" width="280" alt="Tela inicial do EasyInvest">
 
 ## Desafio 20D
 
